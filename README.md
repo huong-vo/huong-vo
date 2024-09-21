@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @huong-vo
-- 👀 I’m interested in learning and tutoring mathematics, data analysis, and learning programming languages.
-- 🌱 I’m currently learning data modeling and web development.
-- 💞️ I’m looking to collaborate on mathematical modeling.
+- 👀
+- 🌱 I’m currently learning web development and topological data analysis.
+- 💞️ 
 - 📫 Reach me at tvo33@lsu.edu and https://www.linkedin.com/in/huong-vo/
 
 <!---
